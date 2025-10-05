@@ -1,8 +1,5 @@
 # Stock-Market
-Stock Market description
-Here’s a detailed **README description** you can upload for your project, based on your stock market analysis report:
 
----
 
 # 📊 Stock Market Analysis Project
 
@@ -75,3 +72,6 @@ The project delivers multiple dashboards in Tableau to visualize performance and
 ## ✅ Conclusion
 
 The project highlights how data-driven insights can guide better investment decisions. Through Tableau dashboards, investors can visualize and interact with stock data effectively. The findings provide clarity on stock behavior, market dynamics, and optimal strategies for portfolio management.
+
+![Image Alt](https://github.com/ramyaa0805/Stock-Market/blob/11fdc5b43e878b5422f5a403c211d18aad3de2b8/WhatsApp%20Image%202025-10-03%20at%2023.14.09_522c8d11.jpg)
+
